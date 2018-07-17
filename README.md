@@ -1,6 +1,6 @@
 # RDP Wrapper Library by Stas'M
 ### Note
-- Copy rfxvmt.dll in folder C:\Windows\System32
+- Copy rfxvmt.dll to folder C:\Windows\System32
 
 ![Environment](https://img.shields.io/badge/Windows-Vista,%207,%208,%2010-brightgreen.svg)
 [![Release](https://img.shields.io/github/release/stascorp/rdpwrap.svg)](https://github.com/stascorp/rdpwrap/releases)
